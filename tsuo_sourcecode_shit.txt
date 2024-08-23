@@ -8908,7 +8908,7 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
         end
         ------ Attack Functions ---------
         
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/memaybeohub/Function-Scripts/main/FastAttackLoader.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/memaybeohub/NewPage/main/NewFastAttackLoader.lua"))()
         -- Final Load --
         LoadedUiHub = true
         Window:SelectTab(1)
